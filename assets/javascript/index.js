@@ -1,5 +1,5 @@
 function knowmore() {
-    var result = confirm("Do you want to proceed?");
+    var result = confirm("Do you want to view additional details?");
     if (result == true) {
         var x = document.getElementById("cvLink");
         var y = document.getElementById("activityLink");
